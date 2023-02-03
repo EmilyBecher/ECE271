@@ -1,0 +1,36 @@
+C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/counter.sv {1 {vlog -work work -sv -stats=none C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/comparator.sv {1 {vlog -work work -sv -stats=none C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/comparator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/LAB5.v {1 {vlog -work work -stats=none C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/LAB5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LAB5
+
+Top level modules:
+	LAB5
+
+} {} {}} C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/sync.sv {1 {vlog -work work -sv -stats=none C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/sync.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sync
+
+Top level modules:
+	sync
+
+} {} {}} C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/parser.sv {1 {vlog -work work -sv -stats=none C:/Users/Emily/Documents/OSU/S22/ECE271/Lab5/parser.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module parser
+
+Top level modules:
+	parser
+
+} {} {}}

@@ -1,0 +1,29 @@
+//Parser
+module parser #(parameter N = 8)
+					(input logic [N-1:0]a,
+					 output logic [N-1:0]x, y);
+					 
+	logic b = 4'b1010
+	
+	assign x = (a / 10) % 10;
+	assign y = a % 10;
+					 
+endmodule
+
+/*111100
+  32+16+8+4
+  
+  tens place:
+  (a / 10) % 10
+  (a / 4'b1010) % 4'b1010
+  
+  ones place:
+  a % 10
+  a & 4'b1010
+
+  test:
+  a = 16
+  x = (1) % 10 = 1
+  y = 6
+  
+*/
